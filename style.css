@@ -180,6 +180,15 @@ footer {
   margin: 10px;
 }
 
+.phone-bid {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.phone-bid a {
+  text-decoration: none;
+}
+
 @media screen and (max-width: 1275px) {
   .quotebtn {
     width: 35%;
